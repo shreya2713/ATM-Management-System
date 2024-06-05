@@ -1,6 +1,8 @@
 # ATM-Management-System
 ATM System Project Overview
+
 Introduction
+
 The ATM system is a software application developed in Python, designed to allow users to access their bank accounts and perform various transactions such as cash withdrawals and balance inquiries. This system ensures secure transactions by requiring users to enter their personal identification number (PIN) and ATM card number for validation.
 
 Features
