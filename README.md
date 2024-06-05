@@ -43,7 +43,9 @@ Post-transaction, the database is updated with the new account balance and trans
 
 Technology
 Language: Python
+
 Python is a powerful object-oriented programming language, chosen for its readability, simplicity, and extensive libraries that facilitate the development of secure and efficient applications.
 
 Conclusion
+
 The ATM system is designed to provide a secure and user-friendly interface for bank customers to access their accounts and perform transactions. With robust authentication mechanisms and seamless database integration, the system ensures the integrity and security of user data and transactions.
